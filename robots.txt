@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://ravikiranraman.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://ravikiranraman.github.io/sitemap.xml
